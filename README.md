@@ -1,2 +1,2 @@
 # Lösungen zu Übungsblättern
-Physik JGS
+Physik Klasse 9
